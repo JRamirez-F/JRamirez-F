@@ -24,13 +24,11 @@ Also interested in analysis methods to reliably and effciently link biological d
 
 ## ⚗️ Techniques
 
-- ****
-- **Botulinum neurotoxin (BoNT/B)/Synaptotagmin interaction** (https://github.com/JRamirez-F/BoNT-Synaptotagmin)
-- **Cerebrospinal Fluid Contacting Neurons (CSF-cNs)**
-- **Synaptic Vesicle Cycle in cerebellar neurons** 
-- **Astrocytes and serotoninergic signalling**  
-
-
+- **Light-sheet microscopy**
+- **Confocal Microscopy**
+- **Electrophysiology**
+- **Life-cell imaging** 
+ 
 ---
 
 
@@ -55,6 +53,9 @@ Repository of analysis tools, utilities, and image-processing helpers.
 ### 🔹 Electrophysiology Tools  
 [Data Analysis]
 
+---
+
+## ⚗️ Data
 
 ---
 
