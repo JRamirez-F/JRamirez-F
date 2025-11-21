@@ -14,7 +14,7 @@ Also interested in analysis methods to reliably and effciently link biological d
 
 ## 🔬 Main Research Lines
 
-- ***LGI1 and neuronal excitability***
+- [***LGI1 and neuronal excitability***](https://github.com/JRamirez-F/LGI1)
 - **Botulinum neurotoxin (BoNT/B)/Synaptotagmin interaction** (https://github.com/JRamirez-F/BoNT-Synaptotagmin)
 - **Cerebrospinal Fluid Contacting Neurons (CSF-cNs)**
 - **Synaptic Vesicle Cycle in cerebellar neurons** 
@@ -45,7 +45,7 @@ Also interested in analysis methods to reliably and effciently link biological d
 
 ### 🔹 Python Scripts
 Repository of analysis tools, utilities, and image-processing helpers.  
-👉 [Scripts Repository](https://github.com/YOURUSERNAME/scripts)
+👉 [Scripts Repository](https://github.com/JRamirez-F/Python_Scripts)
 
 ### 🔹 FIJI / ImageJ Macros  
 [FIJI_Macros]
