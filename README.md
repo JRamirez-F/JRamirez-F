@@ -62,7 +62,9 @@ A gallery of biological light-microscopy pictures
 
 ## ⚗️ Data
 
-This section is under construction, and hopefully will be during a long time. I plan to upload links to data repositories in order to promote reproducibility and transparence.
+#### This section is under construction
+And hopefully will be during a long time. I plan to upload links to data repositories in order to promote reproducibility and transparence.
+
 ---
 
 ## 🎥 Media, Reviews & Tutorials  
