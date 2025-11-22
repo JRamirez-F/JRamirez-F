@@ -75,7 +75,7 @@ In this section relevant links to news online tools, forum posts, or educational
 
 ## 🔗 Where to Find Me
 
-- **GitHub:** https://github.com/YOURUSERNAME  
+- **ResearchGate:** https://www.researchgate.net/profile/J-Ramirez-Franco
 - [Image.sc profile](https://forum.image.sc/u/j_ramirez/summary)  
 
 ---
