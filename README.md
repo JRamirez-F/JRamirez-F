@@ -72,8 +72,6 @@ A gallery of biological light-microscopy pictures
 
 - **GitHub:** https://github.com/YOURUSERNAME  
 - [Image.sc profile](https://forum.image.sc/u/j_ramirez/summary)  
-- **ORCID:** https://orcid.org/XXXX  
-- **LinkedIn:** (optional)  
 
 ---
 
