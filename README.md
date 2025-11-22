@@ -47,12 +47,12 @@ Also interested in analysis methods to reliably and effciently link biological d
 ### 🔹 Python Scripts
 Repository of analysis tools, utilities, and image-processing helpers.  
 
-👉 [Scripts Repository](https://github.com/JRamirez-F/Python_Scripts)
+👉 [Python Scripts Repository](https://github.com/JRamirez-F/Python_Scripts)
 
 ### 🔹 FIJI / ImageJ Macros
 A collection of FIJI macros to ease image analysis tasks
 
-👉 [FIJI_Macros Repository](https://github.com/JRamirez-F/FIJI_Macros)
+👉 [FIJI Macros Repository](https://github.com/JRamirez-F/FIJI_Macros)
 
 ### 🔹 Electrophysiology Tools  
 [Data Analysis]
