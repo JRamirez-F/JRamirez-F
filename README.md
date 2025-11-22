@@ -27,7 +27,8 @@ Also interested in analysis methods to reliably and effciently link biological d
 - **Light-sheet microscopy**
 - **Confocal Microscopy**
 - **Electrophysiology**
-- **Life-cell imaging** 
+- **Live-cell imaging**
+- **Viral tracing**
  
 ---
 
@@ -69,6 +70,7 @@ And hopefully will be during a long time. I plan to upload links to data reposit
 
 ## 🎥 Media, Reviews & Tutorials  
 
+In this section relevant links to news online tools, forum posts, or educational resources are posted
 ---
 
 ## 🔗 Where to Find Me
