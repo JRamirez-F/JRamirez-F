@@ -75,8 +75,8 @@ And hopefully will be during a long time. I plan to upload links to data reposit
 ---
 
 ## Media, Reviews & Tutorials  
-
 In this section relevant links to news online tools, forum posts, or educational resources are posted
+
 ---
 
 ### Also in
@@ -86,5 +86,5 @@ In this section relevant links to news online tools, forum posts, or educational
 
 ---
 
-*Thanks for visiting my profile—feel free to reach out or explore my repos!*
+*Thanks for visiting, feel free to reach out!*
 
