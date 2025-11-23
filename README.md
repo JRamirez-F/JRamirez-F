@@ -14,7 +14,7 @@ Also interested in analysis methods to reliably and effciently link biological d
 
 ## 🔬 Main Research Lines
 
-- [***LGI1 and neuronal excitability***](https://github.com/JRamirez-F/LGI1)
+- [**LGI1 and neuronal excitability**](https://github.com/JRamirez-F/LGI1)<br>
 - **Botulinum neurotoxin (BoNT/B)/Synaptotagmin interaction** (https://github.com/JRamirez-F/BoNT-Synaptotagmin)
 - **Cerebrospinal Fluid Contacting Neurons (CSF-cNs)**
 - **Synaptic Vesicle Cycle in cerebellar neurons** 
