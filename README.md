@@ -60,9 +60,10 @@ A collection of FIJI macros to ease image analysis tasks
 ---
 
 ## 📷 Picture gallery 
-A gallery of biological light-microscopy pictures 
+A gallery of electron and light-microscopy pictures of the mammalian central nervous system
 
-👉[**Go to gallery!!**](https://github.com/JRamirez-F/Picture_Gallery)
+ 
+### 👉 [Go to gallery!!](https://github.com/JRamirez-F/Picture_Gallery)
 
 ## ⚗️ Data
 
