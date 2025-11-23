@@ -1,4 +1,4 @@
-# Jorge Ramírez Lab
+# Jorge Ramírez
 
 ###  Neuroscience •  Cellular Neurobiology •  Microscopy • Image Analysis • Electrophysiology 
 
