@@ -4,7 +4,7 @@
 
 #### 🧠 Neuroscience researcher since 2009.
 
-Interested in understanding the cell biology of the nervous system communication at different levels (from synapses to networks) using photonic microscopy, electrophysiology, and molecular modeling. 
+Interested in understanding the cell biology of the nervous system at different levels (from synapses to networks) using photonic microscopy, electrophysiology, and molecular modeling. 
 
 Also interested in analysis methods to reliably and effciently link biological data with information (or at least trying to).
 
