@@ -1,8 +1,8 @@
 # Jorge Ramírez Lab
 
-### 🔬 Neuroscience • Cellular Neurobiology • Microscopy • Image Analysis • Electrophysiology 
+###  Neuroscience •  Cellular Neurobiology •  Microscopy • Image Analysis • Electrophysiology 
 
-#### Neuroscience researcher since 2009.
+#### 🧠 Neuroscience researcher since 2009.
 
 Interested in understanding the cell biology of the nervous system communication at different levels (from synapses to networks) using photonic microscopy, electrophysiology, and molecular modeling. 
 
