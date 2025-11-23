@@ -67,19 +67,19 @@ A gallery of electron and light-microscopy pictures of the mammalian central ner
 
 ---
 
-## ⚗️ Data
+## Data
 
 #### This section is under construction
 And hopefully will be during a long time. I plan to upload links to data repositories in order to promote reproducibility and transparence.
 
 ---
 
-## 🎥 Media, Reviews & Tutorials  
+## Media, Reviews & Tutorials  
 
 In this section relevant links to news online tools, forum posts, or educational resources are posted
 ---
 
-## 🔗 Where to Find
+### Also in
 
 - **ResearchGate:** https://www.researchgate.net/profile/J-Ramirez-Franco
 - [Image.sc profile](https://forum.image.sc/u/j_ramirez/summary)  
