@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Jorge
+# Jorge Ramírez Lab
 
-### 🔬 Neuroscience • Microscopy • Image Analysis • Electrophysiology • Computational Biology 
+### 🔬 Neuroscience • Cellular Neurobiology • Microscopy • Image Analysis • Electrophysiology 
 
-Neuroscience researcher since 2009.
+#### Neuroscience researcher since 2009.
 
-Interested in understanding the biology of the nervous system at different levels (from synapses to networks) using photonic microscopy, electrophysiology, and molecular modeling. 
+Interested in understanding the cell biology of the nervous system communication at different levels (from synapses to networks) using photonic microscopy, electrophysiology, and molecular modeling. 
 
 Also interested in analysis methods to reliably and effciently link biological data with information (or at least trying to).
 
@@ -12,7 +12,7 @@ Also interested in analysis methods to reliably and effciently link biological d
 
 ---
 
-## 🔬 Main Research Lines
+## Main Research Lines
 
 - ### [**LGI1 and neuronal excitability**](https://github.com/JRamirez-F/LGI1)<br>
 - **Botulinum neurotoxin (BoNT/B)/Synaptotagmin interaction** (https://github.com/JRamirez-F/BoNT-Synaptotagmin)
@@ -22,7 +22,7 @@ Also interested in analysis methods to reliably and effciently link biological d
 
 ---
 
-## ⚗️ Techniques
+## Techniques
 
 - **Light-sheet microscopy**
 - **Confocal Microscopy**
@@ -42,7 +42,7 @@ Also interested in analysis methods to reliably and effciently link biological d
 
 ---
 
-## 💻 Code & Scripts
+## Scripts & Protocols
 
 ### 🔹 Python Scripts
 Repository of analysis tools, utilities, and image-processing helpers.  
@@ -54,16 +54,18 @@ A collection of FIJI macros to ease image analysis tasks
 
 👉 [FIJI Macros Repository](https://github.com/JRamirez-F/FIJI_Macros)
 
-### 🔹 Electrophysiology Tools  
-[Data Analysis]
+### 🔹 Protocols   
+[Wet lab protocols and "How to" documents.]
 
 ---
 
-## 📷 Picture gallery 
+## 📷 Picture gallery <br>
 A gallery of electron and light-microscopy pictures of the mammalian central nervous system
 
  
 ### 👉 [Go to gallery!!](https://github.com/JRamirez-F/Picture_Gallery)
+
+---
 
 ## ⚗️ Data
 
@@ -77,7 +79,7 @@ And hopefully will be during a long time. I plan to upload links to data reposit
 In this section relevant links to news online tools, forum posts, or educational resources are posted
 ---
 
-## 🔗 Where to Find Me
+## 🔗 Where to Find
 
 - **ResearchGate:** https://www.researchgate.net/profile/J-Ramirez-Franco
 - [Image.sc profile](https://forum.image.sc/u/j_ramirez/summary)  
