@@ -81,8 +81,8 @@ In this section relevant links to news online tools, forum posts, or educational
 
 ### Also in
 
-- **ResearchGate:** https://www.researchgate.net/profile/J-Ramirez-Franco
-- [Image.sc profile](https://forum.image.sc/u/j_ramirez/summary)  
+- [ResearchGate](https://www.researchgate.net/profile/J-Ramirez-Franco)
+- [Image.sc](https://forum.image.sc/u/j_ramirez/summary)  
 
 ---
 
