@@ -8,7 +8,7 @@ Interested in understanding the cell biology of the nervous system at different 
 
 Also interested in analysis methods to reliably and effciently link biological data with information (or at least trying to).
 
-
+Check my personal [**website**](https://jramirez-f.github.io/)! (⚠️ under construction)
 
 ---
 
